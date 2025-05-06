@@ -1,2 +1,2 @@
 # ControlBot
-Simple Poker Bot based only on statistical odds
+Simple Poker Bot based only on statistical pot odds
